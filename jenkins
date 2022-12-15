@@ -1,5 +1,0 @@
-sonar-scanner \
-  -Dsonar.projectKey=sonarqube-jenkins \
-  -Dsonar.sources=. \
-  -Dsonar.host.url=http://ec2-65-0-135-99.ap-south-1.compute.amazonaws.com:9000 \
-  -Dsonar.login=39d743f7660088d572fe2b723122936e05723506
